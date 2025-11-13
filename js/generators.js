@@ -887,15 +887,16 @@ var generators={
 		'gameinfo':'https://www.mobygames.com/game/faxanadu',
 		'added':'2020-03-30',
 	},
-	'fwbt':{
-		'title': 'The Frog for Whom the Bell Tolls',
-		'source':'Nintendo',
-		'sourceurl':'https://en.wikipedia.org/wiki/Nintendo',
-		'defaulttext':"Hey, old man!\nWhat is it?",
-		'year':1992,
-		'platform':'gameboy',
-		'added':'2019-02-13',
-		'gameinfo':'https://www.mobygames.com/game/kaeru-no-tame-ni-kane-wa-naru',
+	'fightingbb':{
+		'title': 'Fighting Baseball/MLBPA Baseball',
+		'source':'Visual Concepts',
+		'sourceurl':'https://en.wikipedia.org/wiki/Visual_Concepts',
+		'defaulttext':"SLEVE MCDICHAEL\t\t\tWILLIE DUSTICE\nONSON SWEEMEY\t\t\tJEROMY GRIDE\nDARRYL ARCHIDELD\t\t\tSCOTT DOURQUE\nANATOLI SMORIN\t\t\tSHOWN FURCOTTE\nREY MCSRIFF\t\t\tDEAN WESREY\nGLENALLEN MIXON\t\t\tMIKE TRUK\nMARIO MERLWAIN\t\t\tDWIGT RORTUGAL\nRAUL CHAMGERLAIN\t\t\tTIM SANDAELE\nKEVIN NOGILNY\t\t\tKARL DANDLETON\nTONY SMEHRIK\t\t\tMIKE SERNANDEZ\nBOBSON DUGNUTT\t\t\tTODD BUNZALEZ",
+		'platform':'snes',
+		'year':1994,
+		'gameinfo':'https://www.mobygames.com/game/mlbpa-baseball',
+		'added':'2025-12-31',
+		'_comment':'https://slate.com/technology/2020/04/mlbpa-baseball-nintendo-japan-player-names.html, https://web.archive.org/web/20200430155054/https://twitter.com/jane_c_hu/status/1253047948587368448'
 	},
 	'ff5':{
 		'title': 'Final Fantasy V',
@@ -984,6 +985,16 @@ var generators={
 		"platform":"nes",
 		'gameinfo':'https://www.mobygames.com/game/nes/friday-the-13th',
 		'added':'2019-09-13'
+	},
+	'fwbt':{
+		'title': 'The Frog for Whom the Bell Tolls',
+		'source':'Nintendo',
+		'sourceurl':'https://en.wikipedia.org/wiki/Nintendo',
+		'defaulttext':"Hey, old man!\nWhat is it?",
+		'year':1992,
+		'platform':'gameboy',
+		'added':'2019-02-13',
+		'gameinfo':'https://www.mobygames.com/game/kaeru-no-tame-ni-kane-wa-naru',
 	},
 	'fmgh':{
 		'title': 'Front Mission: Gun Hazard',
