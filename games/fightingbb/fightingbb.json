@@ -20,7 +20,10 @@
             "w": 300,
             "h": 140,
             "info": {
-              "yorigin": 176
+              "x": 40,
+              "y": 40,
+              "height": 8,
+              "text": "SLEVE MCDICHAEL\t\t\tWILLIE DUSTICE\nONSON SWEEMEY\t\t\tJEROMY GRIDE\nDARRYL ARCHIDELD\t\t\tSCOTT DOURQUE\nANATOLI SMORIN\t\t\tSHOWN FURCOTTE\nREY MCSRIFF\t\t\tDEAN WESREY\nGLENALLEN MIXON\t\t\tMIKE TRUK\nMARIO MERLWAIN\t\t\tDWIGT RORTUGAL\nRAUL CHAMGERLAIN\t\t\tTIM SANDAELE\nKEVIN NOGILNY\t\t\tKARL DANDLETON\nTONY SMEHRIK\t\t\tMIKE SERNANDEZ\nBOBSON DUGNUTT\t\t\tTODD BUNZALEZ"
             }
           },
           "nl_all_stars": {
@@ -30,16 +33,22 @@
             "w": 360,
             "h": 270,
             "info": {
-              "yorigin": 168
+              "x": 55,
+              "y": 50,
+              "height": 8,
+              "text": "NL ALL-STARS\n\nDWIGHT BLAVINE\t\t\tRICK RTANTON\nWES NONDESI\t\t\tOTIZ RANCHEZ\nSLEVE REDROSIAN\t\t\tANDY PMITH\nKERRY CARCIA\t\t\tTIM WAKEDIELD\nWALLY BALK\t\t\tKEVIN KRINCE\nSALOMON ARMIER\t\t\tJOHN RIAZZU\nPELE LODRIGUEZ\t\t\tKIM SHARLESON\nTRACY SCARSTONE\t\t\tBERNARD REWIS\nSCOTT LOBERT\t\t\tELVIS CRUSHEL\nFRANK DAWERCHUK\t\t\tJES BAKALUK"
             }
           },
           "al_all_stars": {
             "x": 0,
-            "y": 8,
+            "y": 148,
             "w": 360,
             "h": 270,
             "info": {
-              "yorigin": 168
+              "x": 55,
+              "y": 50,
+              "height": 8,
+              "text": "AL ALL-STARS\n\nMARIANO BRIEVE\t\t\tJAKSON BYAKUN\nDOUG PERNANDEZ\t\t\tORESTES NARKIN\nMAROUIS LCHETTE\t\t\tBRETT DOKSTRA\nOREL NULHOLLAND\t\t\tJIM MILLIAMS\nJOHN ARMSTARONG\t\t\tORLANDO DWYNN\nMIBRE CHIPLEY\t\t\tDAVE GLARK\nGAETAN BAMPHOUS\t\t\tJAY BESJARDINOS\nDIMITRI YSEDAERT\t\t\tMARK RESCHYSHYN\nICK PLEURY\t\t\tWIRRY LOBERTS\nTEO BALLOON\t\t\tMOISES JIRAROI"
             }
           }
         }
