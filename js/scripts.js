@@ -285,6 +285,10 @@ class Snippet{
 					ligature_default = first(first(font.ligatures,font.insertables, {}).default,{})
 					var old_info = info
 					info = ligatures[matched_text]
+					if (!info) {
+						console.log("What is ligatures?? " + ligatures);
+						console.log("And where is matched_text?? " + matched_text);
+					}
 					var lig_chain = first(info['ligature-chain'], defaultInfo['ligature-chain'], 0)
 					if(lig_chain>0){
 						// FIXME: This won't calculate the correct unadvance if the chain is >1! 
