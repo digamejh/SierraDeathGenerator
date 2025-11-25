@@ -272,7 +272,6 @@ class Snippet{
 				info = map_smart_quotes(font, c)
 				if(info==null){
 					info=font[font["null-character"]]
-					console.log("What is info?? " + info);
 				}
 			}
 			var lig_unadvance = undefined
@@ -298,7 +297,6 @@ class Snippet{
 			else {
 				console.log("Only 1 matching_ligature; info not changed");
 			}
-			console.log("What is info?? " + info);
 			var x=first(info.x, ligature_default.x, defaultInfo.x)
 			if(glitch){
 				x*=0.95
