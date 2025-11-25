@@ -272,6 +272,7 @@ class Snippet{
 				info = map_smart_quotes(font, c)
 				if(info==null){
 					info=font[font["null-character"]]
+					console.log("What is info?? " + info);
 				}
 			}
 			var lig_unadvance = undefined
@@ -285,10 +286,6 @@ class Snippet{
 					ligature_default = first(first(font.ligatures,font.insertables, {}).default,{})
 					var old_info = info
 					info = ligatures[matched_text]
-					if (!info) {
-						console.log("What is ligatures?? " + ligatures);
-						console.log("And where is matched_text?? " + matched_text);
-					}
 					var lig_chain = first(info['ligature-chain'], defaultInfo['ligature-chain'], 0)
 					if(lig_chain>0){
 						// FIXME: This won't calculate the correct unadvance if the chain is >1! 
@@ -298,6 +295,10 @@ class Snippet{
 					i+= Math.max(0, (matching_ligatures[0].length -1 ) - lig_chain) 
 				}
 			}
+			else {
+				console.log("Only 1 matching_ligature; info not changed");
+			}
+			console.log("What is info?? " + info);
 			var x=first(info.x, ligature_default.x, defaultInfo.x)
 			if(glitch){
 				x*=0.95
