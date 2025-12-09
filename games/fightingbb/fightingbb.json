@@ -17,14 +17,13 @@
             "x": 0,
             "y": 9,
             "_comment": "Original image is 600x280 with 16x16 tiles",
-            "w": 300,
-            "h": 140,
+            "w": 150,
+            "h": 60,
             "info": {
-              "scale": 1,
               "x": 40,
               "y": 40,
               "height": 8,
-              "text": "SLEVE MCDICHAEL\tWILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD\tSCOTT DOURQUE\nANATOLI SMORIN\tSHOWN FURCOTTE\nREY MCSRIFF\tDEAN WESREY\nGLENALLEN MIXON\tMIKE TRUK\nMARIO MERLWAIN\tDWIGT RORTUGAL\nRAUL CHAMGERLAIN\tTIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\tMIKE SERNANDEZ\nBOBSON DUGNUTT\tTODD BUNZALEZ"
+              "text": "SLEVE MCDICHAEL&nbsp;&nbsp;&nbsp;WILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD&nbsp;&nbsp;SCOTT DOURQUE\nANATOLI SMORIN&nbsp;&nbsp;&nbsp;&nbsp;SHOWN FURCOTTE\nREY MCSRIFF&nbsp;&nbsp;&nbsp;DEAN WESREY\nGLENALLEN MIXON&nbsp;&nbsp;&nbsp;MIKE TRUK\nMARIO MERLWAIN&nbsp;&nbsp;&nbsp;&nbsp;DWIGT RORTUGAL\nRAUL CHAMGERLAIN&nbsp;&nbsp;TIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\t&nbsp;MIKE SERNANDEZ\nBOBSON DUGNUTT&nbsp;&nbsp;&nbsp;&nbsp;TODD BUNZALEZ"
             }
           },
           "nl_all_stars": {
@@ -34,7 +33,6 @@
             "w": 360,
             "h": 270,
             "info": {
-              "scale": 1,
               "x": 55,
               "y": 50,
               "height": 8,
@@ -47,7 +45,6 @@
             "w": 360,
             "h": 270,
             "info": {
-              "scale": 1,
               "x": 55,
               "y": 50,
               "height": 8,
