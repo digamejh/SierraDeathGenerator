@@ -35,7 +35,7 @@
             "info": {
               "x": 55,
               "y": 50,
-              "height": 8,
+              "height": 10,
               "text": "NL ALL-STARS\n\nDWIGHT BLAVINE\tRICK RTANTON\nWES NONDESI\tOTIZ RANCHEZ\nSLEVE REDROSIAN\tANDY PMITH\nKERRY CARCIA\tTIM WAKEDIELD\nWALLY BALK\tKEVIN KRINCE\nSALOMON ARMIER\tJOHN RIAZZU\nPELE LODRIGUEZ\tKIM SHARLESON\nTRACY SCARSTONE\tBERNARD REWIS\nSCOTT LOBERT\tELVIS CRUSHEL\nFRANK DAWERCHUK\tJES BAKALUK"
             }
           },
@@ -47,7 +47,7 @@
             "info": {
               "x": 55,
               "y": 50,
-              "height": 8,
+              "height": 10,
               "text": "AL ALL-STARS\n\nMARIANO BRIEVE\tJAKSON BYAKUN\nDOUG PERNANDEZ\tORESTES NARKIN\nMAROUIS LCHETTE\tBRETT DOKSTRA\nOREL NULHOLLAND\tJIM MILLIAMS\nJOHN ARMSTARONG\tORLANDO DWYNN\nMIBRE CHIPLEY\tDAVE GLARK\nGAETAN BAMPHOUS\tJAY BESJARDINOS\nDIMITRI YSEDAERT\tMARK RESCHYSHYN\nICK PLEURY\tWIRRY LOBERTS\nTEO BALLOON\tMOISES JIRAROI"
             }
           }
@@ -56,7 +56,7 @@
     },
 "hooks": {
 		"font": "",
-    "_comment": "Changing the scene will change the text too",
+    "_comment": "change-scene code copied from finalfight1",
 		"change-scene": "{let txt = $('#sourcetext').val(); if(isAnyDefaultText(txt) || Object.values(fontInfo.overlays.scene.options).map(o=>o.info.text).includes(txt)){$('#sourcetext').val(overlays.scene.options[$(this).val()].info.text)}}"
 	},
 
