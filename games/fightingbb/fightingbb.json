@@ -11,9 +11,9 @@
         "x": 0,
         "y": 0,
         "title": "Type",
-        "default": "kjjokts",
+        "default": "Original meme",
         "options": {
-          "kjjots": {
+          "Original meme": {
             "x": 0,
             "y": 9,
             "_comment": "Original image is 600x280 with 16x16 tiles",
@@ -35,7 +35,7 @@
             "info": {
               "x": 28,
               "y": 25,
-              "height": 10,
+              "height": 12,
               "text": "NL ALL-STARS\n\nDWIGHT BLAVINE    RICK RTANTON\nWES NONDESI\t  OTIZ RANCHEZ\nSLEVE REDROSIAN   ANDY PMITH\nKERRY CARCIA\t TIM WAKEDIELD\nWALLY BALK\t   KEVIN KRINCE\nSALOMON ARMIER    JOHN RIAZZU\nPELE LODRIGUEZ    KIM SHARLESON\nTRACY SCARSTONE   BERNARD REWIS\nSCOTT LOBERT\t ELVIS CRUSHEL\nFRANK DAWERCHUK   JES BAKALUK"
             }
           },
@@ -47,7 +47,7 @@
             "info": {
               "x": 28,
               "y": 25,
-              "height": 10,
+              "height": 12,
               "text": "AL ALL-STARS\n\nMARIANO BRIEVE    JAKSON BYAKUN\nDOUG PERNANDEZ    ORESTES NARKIN\nMAROUIS LCHETTE   BRETT DOKSTRA\nOREL NULHOLLAND   JIM MILLIAMS\nJOHN ARMSTARONG   ORLANDO DWYNN\nMIBRE CHIPLEY\tDAVE GLARK\nGAETAN BAMPHOUS   JAY BESJARDINOS\nDIMITRI YSEDAERT  MARK RESCHYSHYN\nICK PLEURY\t   WIRRY LOBERTS\nTEO BALLOON\t  MOISES JIRAROI"
             }
           }
@@ -55,8 +55,8 @@
       }
     },
 "hooks": {
-		"font": "",
-    "_comment": "change-scene code copied from finalfight1",
+    "_comment": "code copied from finalfight1",
+		"font": "{let pos = overlays.scene.data.info;originx=pos.x;mainFont.y=pos.y;fontInfo['height']=pos.height}",
 		"change-scene": "{let txt = $('#sourcetext').val(); if(isAnyDefaultText(txt) || Object.values(fontInfo.overlays.scene.options).map(o=>o.info.text).includes(txt)){$('#sourcetext').val(overlays.scene.options[$(this).val()].info.text)}}"
 	},
 

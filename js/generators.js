@@ -890,10 +890,23 @@ var generators={
 	'fightingbb':{
 		'title': 'Fighting Baseball/MLBPA Baseball',
 		'source':'Visual Concepts',
-		'contributions':[{
-			'contributor': '@digamejh',
-			'url':'https://github.com/digamejh',
-		}],
+		'contributions':[
+			{
+				'type': 'Code',
+				'contributor': '@digamejh',
+				'url':'https://github.com/digamejh'
+			},
+			{
+				'type':'Original "KJJOKTS" meme image',
+				'contributor': 'Unknown IMGUR user',
+				'url': 'https://imgur.com/old-japanese-console-game-fighting-baseball-had-some-creative-fake-names-players-KJJOKTS'
+			},
+			{
+				'type':'Rosters',
+				'contributor': 'SirParsifal',
+				'url': 'https://www.reddit.com/r/baseball/comments/8klxnf/the_full_fighting_baseball_snes_rosters_more_than/'
+			}
+		],
 		'sourceurl':'https://en.wikipedia.org/wiki/Visual_Concepts',
 		'defaulttext':"SLEVE MCDICHAEL   WILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD  SCOTT DOURQUE\nANATOLI SMORIN    SHOWN FURCOTTE\nREY MCSRIFF\t  DEAN WESREY\nGLENALLEN MIXON   MIKE TRUK\nMARIO MERLWAIN    DWIGT RORTUGAL\nRAUL CHAMGERLAIN  TIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\t MIKE SERNANDEZ\nBOBSON DUGNUTT    TODD BUNZALEZ",
 		'platform':'snes',
