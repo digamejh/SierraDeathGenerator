@@ -1,7 +1,7 @@
 {
   "height": 8,
   "origin":{
-    "_comment": "this is for kjjots; other 2 are x:48, y:64",
+    "_comment": "this is for kjjots; other 2 are x:48, y:64  The values are half their pixel values, as the resolution appears to be doubled.",
     "x": 19,
     "y": 15
   },
@@ -17,8 +17,8 @@
             "x": 0,
             "y": 9,
             "_comment": "Original image is 600x280 with 16x16 tiles",
-            "w": 300,
-            "h": 140,
+            "w": 150,
+            "h": 70,
             "info": {
               "x": 40,
               "y": 40,
@@ -30,8 +30,8 @@
             "x": 0,
             "y": 148,
             "_comment": "Screenshots are effectively 720x540 with 17x17 tiles (w/bleedthrough...)",
-            "w": 360,
-            "h": 270,
+            "w": 180,
+            "h": 135,
             "info": {
               "x": 28,
               "y": 25,
@@ -42,8 +42,8 @@
           "al_all_stars": {
             "x": 0,
             "y": 148,
-            "w": 360,
-            "h": 270,
+            "w": 180,
+            "h": 135,
             "info": {
               "x": 28,
               "y": 25,
