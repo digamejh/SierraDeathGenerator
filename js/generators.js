@@ -890,8 +890,12 @@ var generators={
 	'fightingbb':{
 		'title': 'Fighting Baseball/MLBPA Baseball',
 		'source':'Visual Concepts',
+		'contributions':[{
+			'contributor': '@digamejh',
+			'url':'https://github.com/digamejh',
+		}],
 		'sourceurl':'https://en.wikipedia.org/wiki/Visual_Concepts',
-		'defaulttext':"SLEVE MCDICHAEL\t\t\tWILLIE DUSTICE\nONSON SWEEMEY\t\t\tJEROMY GRIDE\nDARRYL ARCHIDELD\t\t\tSCOTT DOURQUE\nANATOLI SMORIN\t\t\tSHOWN FURCOTTE\nREY MCSRIFF\t\t\tDEAN WESREY\nGLENALLEN MIXON\t\t\tMIKE TRUK\nMARIO MERLWAIN\t\t\tDWIGT RORTUGAL\nRAUL CHAMGERLAIN\t\t\tTIM SANDAELE\nKEVIN NOGILNY\t\t\tKARL DANDLETON\nTONY SMEHRIK\t\t\tMIKE SERNANDEZ\nBOBSON DUGNUTT\t\t\tTODD BUNZALEZ",
+		'defaulttext':"SLEVE MCDICHAEL\tWILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD\tSCOTT DOURQUE\nANATOLI SMORIN\tSHOWN FURCOTTE\nREY MCSRIFF\tDEAN WESREY\nGLENALLEN MIXON\tMIKE TRUK\nMARIO MERLWAIN\tDWIGT RORTUGAL\nRAUL CHAMGERLAIN\tTIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\tMIKE SERNANDEZ\nBOBSON DUGNUTT\tTODD BUNZALEZ",
 		'platform':'snes',
 		'year':1994,
 		'gameinfo':'https://www.mobygames.com/game/mlbpa-baseball',
