@@ -54,6 +54,10 @@
         }
       }
     },
+"hooks": {
+		"font": "",
+		"change-scene": "{alert('hello');}"
+	},
 
   "null-character": 32,
   "default": {
