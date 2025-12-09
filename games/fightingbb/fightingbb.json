@@ -56,7 +56,8 @@
     },
 "hooks": {
 		"font": "",
-		"change-scene": "{alert('hello');}"
+    "_comment": "Changing the scene will change the text too",
+		"change-scene": "{let txt = $('#sourcetext').val(); if(isAnyDefaultText(txt) || Object.values(fontInfo.overlays.scene.options).map(o=>o.info.text).includes(txt)){$('#sourcetext').val(overlays.scene.options[$(this).val()].info.text)}}"
 	},
 
   "null-character": 32,
