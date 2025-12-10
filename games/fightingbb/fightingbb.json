@@ -1,7 +1,7 @@
 {
   "height": 8,
   "origin":{
-    "_comment": "this is for kjjots; other 2 are x:48, y:64  The values are half their pixel values, as the resolution appears to be doubled.",
+    "_comment": "this is for the original meme; other 2 are x:48, y:64  The values are half their pixel values, as the resolution appears to be doubled.",
     "x": 19,
     "y": 15
   },
@@ -30,8 +30,8 @@
             "x": 0,
             "y": 148,
             "_comment": "Screenshots are effectively 720x540 with 17x17 tiles (w/bleedthrough...)",
-            "w": 360,
-            "h": 270,
+            "w": 330,
+            "h": 240,
             "info": {
               "x": 28,
               "y": 25,
@@ -42,8 +42,8 @@
           "AL All-Stars": {
             "x": 0,
             "y": 148,
-            "w": 360,
-            "h": 270,
+            "w": 330,
+            "h": 240,
             "info": {
               "x": 28,
               "y": 25,
