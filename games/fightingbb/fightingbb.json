@@ -8,8 +8,7 @@
   "case-fold": "upper",
   "overlays": {
       "scene": {
-        "x": 0,
-        "y": 0,
+        
         "title": "Type",
         "default": "Original meme",
         "options": {
@@ -26,7 +25,7 @@
               "text": "SLEVE MCDICHAEL   WILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD  SCOTT DOURQUE\nANATOLI SMORIN    SHOWN FURCOTTE\nREY MCSRIFF\t  DEAN WESREY\nGLENALLEN MIXON   MIKE TRUK\nMARIO MERLWAIN    DWIGT RORTUGAL\nRAUL CHAMGERLAIN  TIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\t MIKE SERNANDEZ\nBOBSON DUGNUTT    TODD BUNZALEZ"
             }
           },
-          "nl_all_stars": {
+          "NL All-Stars": {
             "x": 0,
             "y": 148,
             "_comment": "Screenshots are effectively 720x540 with 17x17 tiles (w/bleedthrough...)",
@@ -39,7 +38,7 @@
               "text": "NL ALL-STARS\n\nDWIGHT BLAVINE    RICK RTANTON\nWES NONDESI\t  OTIZ RANCHEZ\nSLEVE REDROSIAN   ANDY PMITH\nKERRY CARCIA\t TIM WAKEDIELD\nWALLY BALK\t   KEVIN KRINCE\nSALOMON ARMIER    JOHN RIAZZU\nPELE LODRIGUEZ    KIM SHARLESON\nTRACY SCARSTONE   BERNARD REWIS\nSCOTT LOBERT\t ELVIS CRUSHEL\nFRANK DAWERCHUK   JES BAKALUK"
             }
           },
-          "al_all_stars": {
+          "AL All-Stars": {
             "x": 0,
             "y": 148,
             "w": 360,
