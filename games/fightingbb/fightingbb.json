@@ -20,8 +20,8 @@
             "w": 300,
             "h": 140,
             "info": {
-              "x": 40,
-              "y": 40,
+              "x": 19,
+              "y": 15,
               "height": 10,
               "text": "SLEVE MCDICHAEL   WILLIE DUSTICE\nONSON SWEEMEY\tJEROMY GRIDE\nDARRYL ARCHIDELD  SCOTT DOURQUE\nANATOLI SMORIN    SHOWN FURCOTTE\nREY MCSRIFF\t  DEAN WESREY\nGLENALLEN MIXON   MIKE TRUK\nMARIO MERLWAIN    DWIGT RORTUGAL\nRAUL CHAMGERLAIN  TIM SANDAELE\nKEVIN NOGILNY\tKARL DANDLETON\nTONY SMEHRIK\t MIKE SERNANDEZ\nBOBSON DUGNUTT    TODD BUNZALEZ"
             }
@@ -30,8 +30,8 @@
             "x": 0,
             "y": 148,
             "_comment": "Screenshots are effectively 720x540 with 17x17 tiles (w/bleedthrough...)",
-            "w": 330,
-            "h": 230,
+            "w": 325,
+            "h": 220,
             "info": {
               "x": 28,
               "y": 35,
@@ -42,8 +42,8 @@
           "AL All-Stars": {
             "x": 0,
             "y": 148,
-            "w": 330,
-            "h": 230,
+            "w": 325,
+            "h": 220,
             "info": {
               "x": 28,
               "y": 35,
@@ -56,7 +56,7 @@
     },
 "hooks": {
     "_comment": "code copied from finalfight1",
-		"font": "{let pos = overlays.scene.data.info;fontInfo['height']=pos.height}",
+		"font": "{let pos = overlays.scene.data.info;originx=pos.x;mainFont.y=pos.yfontInfo['height']=pos.height}",
 		"change-scene": "{let txt = $('#sourcetext').val(); if(isAnyDefaultText(txt) || Object.values(fontInfo.overlays.scene.options).map(o=>o.info.text).includes(txt)){$('#sourcetext').val(overlays.scene.options[$(this).val()].info.text)}}"
 	},
 
