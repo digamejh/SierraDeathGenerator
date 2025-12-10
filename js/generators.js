@@ -892,7 +892,6 @@ var generators={
 		'source':'Visual Concepts',
 		'contributions':[
 			{
-				'type': 'Code',
 				'contributor': '@digamejh',
 				'url':'https://github.com/digamejh'
 			},
