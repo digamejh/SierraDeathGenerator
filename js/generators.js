@@ -896,12 +896,12 @@ var generators={
 				'url':'https://github.com/digamejh'
 			},
 			{
-				'type':'Original "KJJOKTS" meme image',
+				'type':'original "KJJOKTS" meme image',
 				'contributor': 'Unknown IMGUR user',
 				'url': 'https://imgur.com/old-japanese-console-game-fighting-baseball-had-some-creative-fake-names-players-KJJOKTS'
 			},
 			{
-				'type':'Rosters',
+				'type':'rosters compiled',
 				'contributor': 'SirParsifal',
 				'url': 'https://www.reddit.com/r/baseball/comments/8klxnf/the_full_fighting_baseball_snes_rosters_more_than/'
 			}
