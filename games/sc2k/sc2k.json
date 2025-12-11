@@ -2,7 +2,7 @@
   "height": 17,
   "origin": {
     "x": 79,
-    "y": 15
+    "y": 12
   },
   "null-character": 32,
   "dynamic-size": {
@@ -30,7 +30,7 @@
           "info": {
             "font": "mainFont",
             "x-origin": 79,
-            "y-origin": 15,
+            "y-origin": 12,
             "wrap":154,
             "advisor":{
               "x":9,
