@@ -1,2 +1,4 @@
 inprogress
 .DS_Store
+*_bak.*
+**/scratch/*
