@@ -17,8 +17,7 @@
             "x": 0,
             "y": 9,
             "_comment": "Original image is 600x280 with 16x16 tiles",
-            "w": 300,
-            "h": 140,
+           
             "info": {
               "x": 19,
               "y": 15,
@@ -30,8 +29,7 @@
             "x": 0,
             "y": 148,
             "_comment": "Screenshots are effectively 720x540 with 17x17 tiles (w/bleedthrough...)",
-            "w": 325,
-            "h": 240,
+            
             "info": {
               "x": 29,
               "y": 29,
@@ -42,8 +40,7 @@
           "AL All-Stars": {
             "x": 0,
             "y": 148,
-            "w": 325,
-            "h": 240,
+           
             "info": {
               "x": 29,
               "y": 29,
